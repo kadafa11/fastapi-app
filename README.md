@@ -25,7 +25,7 @@ This is a RESTful API built with **FastAPI**, featuring user registration, login
 
 ### 1. Clone the Repository
 
-```bash
+ bash
 git clone https://github.com/kadafa11/fastapi-app.git
 cd fastapi-app
 2. Create and Activate a Virtual Environment
